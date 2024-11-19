@@ -2,13 +2,14 @@ Ex No: 01     Design & Implementation of CMOS Inverter Design Using Cadence EDA 
 
 Aim:
 To design and implement a CMOS inverter circuit using Cadence EDA tools, analyse its electrical characteristics, and understand the fundamental principles of CMOS technology, including the design process, layout, and simulation techniques.
-
 Tools Required:
 •	Personal Computer
 •	Cadence Virtuoso Software
+Circuit Diagram:
+![WhatsApp Image 2024-11-13 at 16 27 47_87fa240d](https://github.com/user-attachments/assets/63e8a6fe-f21d-4818-9d6b-812dd1b9e19d)
 
-S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
-
+S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -
+Commands to get into Cadence
 1.	Right Click and open the terminal window
 2.	Type the following commands as follows and press enter.
 •	csh
@@ -24,7 +25,6 @@ ii.	Create Schematic Cell view.
 iii.	Create the Symbol for schematic Cell view.
 iv.	Create the test Cell view.
 v.	Analog simulation by spectre
-
 
 i)	Procedure for Creating New Library.
 •	File –New – Library
@@ -49,8 +49,7 @@ ii)	Create Schematic Cell view.
 ![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
 
 
- 
-iii)	Creating the Symbol for schematic Cell view
+ iii)	Creating the Symbol for schematic Cell view
 
 •	In the schematic window, execute 
 	Create – Cell view – From Cell view
@@ -66,7 +65,6 @@ iii)	Creating the Symbol for schematic Cell view
 
  ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
 
-
 iv)	Creating the new test cell view
 
 •	Go to CIW window, Execute File-New-Cell view
@@ -78,8 +76,6 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 ![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
 
-
- 
 Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
@@ -107,9 +103,6 @@ For Transient Analysis Settings and Output
  
 
 
-
-
- 
 
 Results:
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
