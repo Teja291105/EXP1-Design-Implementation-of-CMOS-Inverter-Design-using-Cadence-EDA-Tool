@@ -26,7 +26,6 @@ ii.	Create Schematic Cell view.
 iii.	Create the Symbol for schematic Cell view.
 iv.	Create the test Cell view.
 v.	Analog simulation by spectre
-
 i)	Procedure for Creating New Library.
 •	File –New – Library
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1
@@ -49,7 +48,6 @@ ii)	Create Schematic Cell view.
 	Click Check and Save button
 ![image](https://github.com/user-attachments/assets/e96fadf4-085f-4d1a-af45-472b32bd93c1)
  iii)	Creating the Symbol for schematic Cell view
-
 •	In the schematic window, execute 
 	Create – Cell view – From Cell view
 	The cell view from cell view window appears
@@ -63,7 +61,6 @@ ii)	Create Schematic Cell view.
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 ![image](https://github.com/user-attachments/assets/21021da6-3768-4be6-8dec-87247b16363f)
 iv)	Creating the new test cell view
-
 •	Go to CIW window, Execute File-New-Cell view
 	Setup the new file form
 	Library: Select the one you created.
@@ -83,15 +80,11 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
-
 For Transient Analysis Settings and Output
  ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
-
  ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
-
- For DC Analysis Settings and Output
+For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
-
 ![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
 Results:
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
